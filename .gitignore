@@ -1,0 +1,5 @@
+*.cache
+*.cfg
+*.md5
+*.ctex
+/.godot
